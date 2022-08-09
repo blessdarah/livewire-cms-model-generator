@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/livewire-cms-model-generator/static/css/main.6eb27e2c.css",
+    "main.js": "/livewire-cms-model-generator/static/js/main.dc28f932.js",
+    "static/js/787.944656bc.chunk.js": "/livewire-cms-model-generator/static/js/787.944656bc.chunk.js",
+    "index.html": "/livewire-cms-model-generator/index.html",
+    "main.6eb27e2c.css.map": "/livewire-cms-model-generator/static/css/main.6eb27e2c.css.map",
+    "main.dc28f932.js.map": "/livewire-cms-model-generator/static/js/main.dc28f932.js.map",
+    "787.944656bc.chunk.js.map": "/livewire-cms-model-generator/static/js/787.944656bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eb27e2c.css",
+    "static/js/main.dc28f932.js"
+  ]
+}
